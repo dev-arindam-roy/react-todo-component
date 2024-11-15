@@ -1,5 +1,6 @@
 # A ToDO Application - Component Based - Prop Passing
 > A simple ToDo application with components - Parent & Child prop passing
+> Along With localStorage implementation 
 
 ## Check the Application
 
