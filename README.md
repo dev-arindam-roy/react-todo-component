@@ -1,8 +1,9 @@
 # A ToDO Application - Component Based - Prop Passing
 > A simple ToDo application with components - Parent & Child prop passing
-> Along With localStorage implementation 
+> and along with localStorage implementation 
 
 ## Check the Application
+[https://dev-arindam-roy.github.io/react-todo-component/](https://dev-arindam-roy.github.io/react-todo-component/)
 
 ```js
 import React, { useState, useEffect } from 'react';
